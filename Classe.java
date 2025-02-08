@@ -15,5 +15,8 @@ public class Classe {
     public void printSpring(){
         System.out.println("Spring");
     }
+    public void printGit(){
+        System.out.println("Git");
+    }
 
 }
